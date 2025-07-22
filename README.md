@@ -5,6 +5,6 @@
 * Intereses:
    dentro de mis principales intereses me apasiona la programación con Python, mi objetivo, desarrollar sistemas que permitan la optimizacion y mejoras de calidad en procesos.
 
-* Habilidades: actualmente manejo ya HTML y un poco de CSS, después de esto procederé al aprendizaje en JavaScript.
-
+* Habilidades: comprencion, capacidad de analisis y de solucion de problemas. Actualmente aprendiendo Python, logica y estructuracion de proyectos (basicos).
+ 
 
